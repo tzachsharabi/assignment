@@ -1,0 +1,36 @@
+body {
+  padding: 50px;
+  font: 14px Arial, Helvetica, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+div.recorder {
+  background: #eaeaea;
+  border-radius: 10px;
+  padding: 15px;
+  margin: auto;
+  width: 20%;
+  text-align: center;
+}
+
+img.dot {
+  border-radius: 500px;
+  width: 30px;
+  position: relative;
+  right: 10px
+}
+
+button.redirect {
+  cursor: pointer;
+  padding: 5px;
+  margin: auto auto 5px auto;
+  text-align: center;
+}
+
+img.dot {
+  width: 20px;
+  height: 20px;
+}
