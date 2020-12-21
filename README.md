@@ -12,9 +12,3 @@ Instructions:
   docker-compose up
 ```
 - Express server should be up on http://localhost:3000
-- A Postgres server should be up. Username, password and db name are all 'postgres'. You can check db integrity in http://localhost:3000/test_db
-
-
-
-docker-compose up --build --force-recreate --renew-anon-volumes
-# assignment
